@@ -75,17 +75,26 @@ Crowd Fund, Blockchain, Ethereum Virtual Machine, Consensus, MetaMask, DApp, IPF
 
 -> Functional Pages
 Campaigns Page
+
 Lists all campaigns
+
 Filter campaigns by category
+
 View campaign details and donation history
 
 ➕ Create Campaign Page
 Create a campaign with:
+
 Title
+
 Description
+
 Image (IPFS)
+
 Required amount
+
 Category
+
 Automatically uploads content to IPFS and deploys a new campaign contract
 
 -> Dashboard Page
@@ -96,10 +105,15 @@ DAO-based voting for campaign approval
 
 
 🙋‍♂️ Acknowledgments
+
 Ethereum & Solidity Documentation
+
 Polygon Mumbai Testnet
+
 IPFS & Infura
+
 Hardhat for contract development
+
 MUI and Styled Components for UI
 
 
