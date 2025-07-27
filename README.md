@@ -100,11 +100,11 @@ Automatically uploads content to IPFS and deploys a new campaign contract
 -> Dashboard Page
 Displays campaigns created by the connected wallet address
 
-=> Future Scope
+-> Future Scope
 DAO-based voting for campaign approval
 
 
-🙋‍♂️ Acknowledgments
+Acknowledgments
 
 Ethereum & Solidity Documentation
 
